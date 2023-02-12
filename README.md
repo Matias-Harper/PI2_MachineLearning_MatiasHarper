@@ -10,4 +10,6 @@ Esto se debe a una limitación del tamaño de archivo que permite cargar github 
 Se realizó un Árbol de Decisión como modelo predictivo, en el Archivo 3 se puede encontrar su código y puede ser ejecutado sin necesidad
 de descargar los archivos del Drive.
 
-La totalidad del código se encuentra explicado y justificado. Posteriormente se podría sumar valor al trabajo procesando las descripciones de las propiedades para poder superar la mayor falencia que tienen los datasets que son los faltantes de features fundamentales como Superficie cubierta de la propiedad o cantidad de habitaciones
+La totalidad del código se encuentra explicado y justificado. Posteriormente se podría sumar valor al trabajo utilizando Procesamiento de Lenguaje Natural. Y de esta manera utilizar las  descripciones de las propiedades para poder superar la mayor falencia que tienen los datasets, que son los faltantes de features fundamentales como Superficie cubierta de la propiedad o cantidad de habitaciones. 
+
+
